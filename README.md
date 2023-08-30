@@ -1,2 +1,1 @@
-this file for alx se shell task
-
+shell basic repo
