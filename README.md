@@ -1,2 +1,2 @@
-#!/bin/bash
-*this repisitory for alx se shell basics task *
+#!/bin/bash  this repisitory for alx se shell basics task
+ 
