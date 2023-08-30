@@ -1,1 +1,1 @@
-pwd print the current working directory
+ls list the file in current dir 
